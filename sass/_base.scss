@@ -22,7 +22,7 @@ Grey dark 3: #999
     --color-primary-dark: #ba265d;
 
     --color-grey-light-1: #faf9f9;
-    --color-grey-light-2: #f4f2f2;
+    --color-grey-light-2: #f0f0f0;
     --color-grey-light-3: #f0eeee;
     --color-grey-light-4: #ccc;
 
@@ -54,13 +54,8 @@ body {
     font-weight: 400;
     line-height: 1.6;
     color: var(--color-grey-dark-2);
-    background-image: linear-gradient(
-        to right bottom,
-        var(--color-primary-light),
-        var(--color-primary-dark)
-    );
+    background-image: linear-gradient(to right bottom, var(--color-primary-light), var(--color-primary-dark));
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
-    text-shadow: none !important;
 }
