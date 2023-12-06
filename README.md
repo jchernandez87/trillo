@@ -7,4 +7,4 @@
 
 Web landing page for trillo
 
-![hotel-screen](https://github.com/jchernandez87/natours/assets/44485810/75bb16a3-5b0d-4f5f-8f83-80640291c364)
+![trilloscreen](https://github.com/jchernandez87/trillo/assets/44485810/292ddc20-51e3-4b7c-881a-f399d2d7e7e2)
