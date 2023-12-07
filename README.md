@@ -7,4 +7,4 @@
 
 Web landing page for trillo
 
-![trilloscreen](https://github.com/jchernandez87/trillo/assets/44485810/292ddc20-51e3-4b7c-881a-f399d2d7e7e2)
+![trilloscreen](https://github.com/jchernandez87/trillo/assets/44485810/18f2cbd3-f527-425f-9e17-a035e03f0088)
